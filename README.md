@@ -18,28 +18,28 @@ Hey there! I'm an embedded systems enthusiast based in Tianjin, passionate about
 
 ### Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ### Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**PowerManager**](https://github.com/mc3545dada/PowerManager) | Power control model — single motor to chassis for RoboMaster | [Stars](https://img.shields.io/github/stars/mc3545dada/PowerManager?style=flat) |
-| [**MotorPIDSimulation**](https://github.com/mc3545dada/MotorPIDSimulation) | Interactive PID motor simulation (JS + Web) | [Stars](https://img.shields.io/github/stars/mc3545dada/MotorPIDSimulation?style=flat) |
-| [**PlantGame**](https://github.com/mc3545dada/PlantGame) | A mini-game entirely made with vibe coding | [Stars](https://img.shields.io/github/stars/mc3545dada/PlantGame?style=flat) |
-| [**CombinationLock**](https://github.com/mc3545dada/CombinationLock) | Combination lock with code & PCB design | [Stars](https://img.shields.io/github/stars/mc3545dada/CombinationLock?style=flat) |
-| [**DigitalCtrlBuck**](https://github.com/mc3545dada/DigitalCtrlBuck) | Digital-controlled buck converter with code & PCB | [Stars](https://img.shields.io/github/stars/mc3545dada/DigitalCtrlBuck?style=flat) |
+| Project | Description |
+|---------|-------------|
+| [**PowerManager**](https://github.com/mc3545dada/PowerManager) | Power control model — single motor to chassis for RoboMaster |
+| [**MotorPIDSimulation**](https://github.com/mc3545dada/MotorPIDSimulation) | Interactive PID motor simulation (JS + Web) |
+| [**PlantGame**](https://github.com/mc3545dada/PlantGame) | A mini-game entirely made with vibe coding |
+| [**CombinationLock**](https://github.com/mc3545dada/CombinationLock) | Combination lock with code & PCB design |
+| [**DigitalCtrlBuck**](https://github.com/mc3545dada/DigitalCtrlBuck) | Digital-controlled buck converter with code & PCB |
 
 ---
 
