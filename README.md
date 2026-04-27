@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Embedded+%7C+Control+%7C+Power+Electronics;Building+at+the+Intersection+of+Hardware+%26+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=Embedded+%7C+Control+%7C+Power;Hardware+%26+Software+Engineering" alt="Typing SVG" />
 </div>
 
 ---
