@@ -35,6 +35,7 @@ Hey there! I'm an embedded systems enthusiast based in Tianjin, passionate about
 
 | Project | Description |
 |---------|-------------|
+| [**aiChatFramework**](https://github.com/mc3545dada/aiChatFramework) | Web chat for OpenAI-compatible APIs — streaming, thinking mode, file upload |
 | [**PowerManager**](https://github.com/mc3545dada/PowerManager) | Power control model — single motor to chassis for RoboMaster |
 | [**MotorPIDSimulation**](https://github.com/mc3545dada/MotorPIDSimulation) | Interactive PID motor simulation (JS + Web) |
 | [**PlantGame**](https://github.com/mc3545dada/PlantGame) | A mini-game entirely made with vibe coding |
